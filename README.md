@@ -1,5 +1,5 @@
 # airbnb-clone-projectThis project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
-## UI/UX Design Planning
+### UI/UX Design Planning
 Design Goals-
 Create intuitive booking flow
 Maintain visual consistency
@@ -27,7 +27,7 @@ Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
-### Project Roles and Responsibilities
+## Project Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team, manages deliverables
 Frontend Developers	Implements UI components, ensures responsive design
@@ -37,7 +37,7 @@ QA/Testers	Writes test cases, performs testing, reports bugs
 DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
 Product Owner	Defines requirements, prioritizes features, represents stakeholders
 Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
-#### UX/UI Component Patterns
+# UX/UI Component Patterns
 Planned Components
 Navbar
 
